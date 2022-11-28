@@ -4,12 +4,12 @@ function reRender(category) {
             showEclass()
             break
         }
-        case "Motor": {
-            showMotor()
+        case "Glc": {
+            showGlc()
             break
         }
-        case "Motorbike": {
-            showMotorbike()
+        case "Sclass": {
+            showSclass()
             break
         }
     }
@@ -23,15 +23,15 @@ function deleteProduct(i, j, category) {
             }
             break
         }
-        case "Motor": {
-            if (confirm("Bạn chắc chắn muốn xóa sản phẩm: " + arrayMotor[i][j].getName() + "?")) {
-                arrayMotor[i].splice(j, 1)
+        case "Glc": {
+            if (confirm("Bạn chắc chắn muốn xóa sản phẩm: " + arrayGlc[i][j].getName() + "?")) {
+                arrayGlc[i].splice(j, 1)
             }
             break
         }
-        case "Motorbike": {
-            if (confirm("Bạn chắc chắn muốn xóa sản phẩm: " + arrayMotorbike[i][j].getName() + "?")) {
-                arrayMotorbike[i].splice(j, 1)
+        case "Sclass": {
+            if (confirm("Bạn chắc chắn muốn xóa sản phẩm: " + arraySclass[i][j].getName() + "?")) {
+                arraySclass[i].splice(j, 1)
             }
             break
         }

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29c5b206-98a8-435a-931f-5255b777a154" name="Changes" comment="lam case study">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/glc1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/glc2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/glc3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/glc4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sclass1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sclass2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sclass3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sclass4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/eclass4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/eclass4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/honda-logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/poster1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/xega1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/xega2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/xega3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/xega4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/xega5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/xega6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/xemoto1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/xemoto2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/xemoto3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/xemoto4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/xemoto5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/xeso1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/xeso2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/xeso3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/xeso4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/index/delete.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index/delete.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/index/display.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index/display.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/index/edit.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index/edit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/view/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IAL2I5h8Ja7x0kd6Rku9cjwgg8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Admin/WebstormProjects/CasestudyModule1",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\WebstormProjects\CasestudyModule1\image" />
+      <recent name="C:\Users\Admin\WebstormProjects\CasestudyModule1\Casestudy\Casestudy\image" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CasestudyModule1/Casestudy/Casestudy/view/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29c5b206-98a8-435a-931f-5255b777a154" name="Changes" comment="" />
+      <created>1669619232691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669619232691</updated>
+      <workItem from="1669619233844" duration="4035000" />
+      <workItem from="1669642036713" duration="13311000" />
+      <workItem from="1669677707378" duration="5000" />
+    </task>
+    <task id="LOCAL-00001" summary="lam case study">
+      <created>1669652400254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669652400254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lam case study" />
+    <option name="LAST_COMMIT_MESSAGE" value="lam case study" />
+  </component>
+</project>

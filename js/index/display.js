@@ -8,22 +8,21 @@ let eclass3 = new Product("E 180",2099000000,"../image/eclass3.jpg",  "Eclass")
 let eclass4 = new Product("E200",2160000000,"../image/eclass4.jpg",  "Eclass")
 let arrayEclass = [[eclass1, eclass2], [eclass3, eclass4]];
 
-//list xe số
+//list xe Glc
 
-let motor1 = new Product("CBR1000RR", 678000000, "../image/xemoto1.png", "Motor");
-let motor2 = new Product("CBR1000RR", 678000000, "../image/xemoto2.png", "Motor");
-let motor3 = new Product("CBR1000RR", 678000000, "../image/xemoto3.png", "Motor");
-let motor4 = new Product("CBR1000RR", 678000000, "../image/xemoto4.png", "Motor");
-let motor5 = new Product("CBR1000RR", 678000000, "../image/xemoto5.png", "Motor");
-let arrayMotor = [[motor1, motor2, motor3], [motor4, motor5]];
+let glc1 = new Product("GLC 200",  1850000000 , "../image/glc1.jpeg", "Glc");
+let glc2 = new Product("GLC 200 4MATIC", 2129000000 , "../image/glc2.jpg", "Glc");
+let glc3 = new Product("GLC 300 4MATIC", 2569000000 , "../image/glc3.jpg", "Glc");
+let glc4 = new Product("GLC 300 4MATIC Coupé",  3099000000 , "../image/glc4.jpg", "Glc");
+let arrayGlc = [[glc1, glc2 ], [glc3, glc4]];
 
-//list xe moto
+//list xe Sclass
 
-let motorbike1 = new Product( "Future 125FI",30200000, "../image/xeso1.png", "Motorbike");
-let motorbike2 = new Product( "Blade",18800000, "../image/xeso2.png", "Motorbike");
-let motorbike3 = new Product( "Wave Alpha",17800000, "../image/xeso3.png", "Motorbike");
-let motorbike4 = new Product( "Wave RSX FI",21700000, "../image/xeso4.png", "Motorbike");
-let arrayMotorbike = [[motorbike1, motorbike2, motorbike3], [motorbike4]];
+let sclass1 = new Product( "S 450 L",4299000000 , "../image/sclass1.jpg", "Sclass");
+let sclass2 = new Product( "S 450 L Luxury",4969000000 , "../image/sclass2.jpg", "Sclass");
+let sclass3 = new Product( "Maybach S 450 4MATIC",7469000000, "../image/sclass3.jpg", "Sclass");
+let sclass4 = new Product( "Maybach S680 4Matic",16000000000, "../image/sclass4.jpg", "Sclass");
+let arraySclass = [[sclass1, sclass2, sclass3], [sclass4]];
 
 //hàm tạo list
 function showElement(array) {
@@ -55,12 +54,12 @@ function showEclass() {
     showElement(arrayEclass)
 }
 
-function showMotor() {
-    showElement(arrayMotor)
+function showGlc() {
+    showElement(arrayGlc)
 }
 
-function showMotorbike() {
-    showElement(arrayMotorbike)
+function showSclass() {
+    showElement(arraySclass)
 }
 
 //kiểm tra xem đã đăng nhập admin hay chưa?

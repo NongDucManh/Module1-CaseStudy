@@ -12,8 +12,8 @@ function renderEdit(text) {
         "<td><select id='category'>" +
         "<option></option>" +
         "<option value='Eclass'>E-Class</option>" +
-        "<option value='Motor'>Motor</option>" +
-        "<option value='Motorbike'>Motorbike</option>" +
+        "<option value='Glc'>GLC</option>" +
+        "<option value='Sclass'>S-class</option>" +
         "</select></td></tr>" +
         "<tr><td></td><td>" +
         "<button onclick='editForm()'>&emsp;&emsp;" + text + "&emsp;&emsp;</button> " +
@@ -42,13 +42,13 @@ function editForm() {
             break;
         }
         case "Motor": {
-            arrayMotor[i][j] = new Product(name, price, image, category);
-            showMotor();
+            arrayGlc[i][j] = new Product(name, price, image, category);
+            showGlc();
             break;
         }
         case "Motorbike": {
-            arrayMotorbike[i][j] = new Product(name, price, image, category);
-            showMotorbike();
+            arraySclass[i][j] = new Product(name, price, image, category);
+            showSclass();
             break;
         }
     }
@@ -65,12 +65,12 @@ function editProduct(i, j, category) {
             renderValueEdit(arrayEclass[i][j])
             break
         }
-        case "Motor": {
-            renderValueEdit(arrayMotor[i][j])
+        case "Glc": {
+            renderValueEdit(arrayGlc[i][j])
             break
         }
-        case "Motorbike": {
-            renderValueEdit(arrayMotorbike[i][j])
+        case "Sclass": {
+            renderValueEdit(arraySclass[i][j])
             break
         }
     }
