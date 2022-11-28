@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="../css/login.css">
+</head>
+<body>
+<div id="container">
+    <div id="logo" style="display: flex">
+        <img src="../image/logo.jpg" alt="Lỗi" width="300px" height="98%">
+        <div id="login">
+            <form action="index.html" method="post" onsubmit="return validateFormLogin()">
+                <table>
+                    <tr>
+                        <td>Username:</td>
+                        <td><label><input type="text" name="username" id="username" size="25px"></label></td>
+                    </tr>
+                    <tr>
+                        <td>Password:</td>
+                        <td><label><input type="password" name="password" id="password" size="25px"></label></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <button type="submit" name="submit">Login</button>
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </div>
+
+</div>
+</body>
+<script src="../js/login.js"></script>
+</html>

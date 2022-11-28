@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="../css/display.css">
+</head>
+<body onload="checkAdmin()">
+<div class="container">
+    <div id="heater">
+        <div id="logo"><img src="../image/logo.jpg" alt="Lỗi" width="302px" height="150px"></div>
+        <div id="header"></div>
+    </div>
+    <div id="menu">
+
+        <ul id="left-index-menu">
+            <li class="sub-menu">
+                <a>TRANG CHỦ</a>
+            </li>
+            <li class="padding-custom">
+                <ul class="car dropdown">
+                    <a class="dropbtn">CÁC DÒNG XE</a>
+                    <div class="dropdown-content">
+                        <li>
+                            <a style="text-decoration: none;color: black" onclick="showEclass()" href="#displayElementBig">Mercedes E-Class</a>
+                        </li>
+                        <li>
+                            <a style="text-decoration: none;color: black" onclick="showMotorbike()" href="#displayElementBig">Mercedes S-Class</a>
+                        </li>
+                        <li>
+                            <a style="text-decoration: none;color: black" onclick="showMotor()" href="#displayElementBig">Mercedes GLC</a>
+                        </li>
+                    </div>
+
+
+                </ul>
+            </li>
+            <li class="sub-menu">
+                <a>TIN TỨC</a>
+            </li>
+            <li class="sub-menu">
+                <a>HỆ THỐNG ĐẠI LÝ</a>
+            </li>
+
+        </ul>
+
+    </div>
+    <section id="Slider">
+        <div class="aspect-ratio-169">
+            <img src="../image/slide1.jpg">
+            <img src="../image/slide2.jpg">
+            <img src="../image/slide3.jpg">
+            <img src="../image/slide4.jpg">
+        </div>
+    </section>
+    <section id="displayElementBig">
+        <div id="displayElement">
+
+        </div>
+        <div id="poster">
+
+        </div>
+    </section>
+
+    <div id="footer">
+        <p>MERCEDES BENZ<br>
+            Điện thoại: 0923.53.2222<br>
+        <li>Showroom An Du Hà Nội – Số 11 Phạm Hùng, Nam Từ Liêm, Hà Nội</li>
+
+    </div>
+</div>
+
+
+</body>
+<script src="../js/index/edit.js"></script>
+<script src="../js/index/delete.js"></script>
+<script src="../js/model/product.js"></script>
+<script src="../js/index/display.js"></script>
+<script>
+    const imgPosition = document.querySelectorAll(".aspect-ratio-169 img")
+    const imgContainer = document.querySelector('.aspect-ratio-169')
+    let imgNumber = imgPosition.length
+    let index = 0
+    imgPosition.forEach(function (image, index) {
+            image.style.left = index * 100 + "%"
+        }
+    )
+
+    function imgSlide() {
+        index++;
+        console.log(index)
+        if (index >= imgNumber) {
+            index = 0
+        }
+        imgContainer.style.left = "-" + index * 100 + "%"
+    }
+
+    setInterval(imgSlide, 4000)
+</script>
+</html>
