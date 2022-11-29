@@ -41,12 +41,12 @@ function editForm() {
             showEclass();
             break;
         }
-        case "Motor": {
+        case "Glc": {
             arrayGlc[i][j] = new Product(name, price, image, category);
             showGlc();
             break;
         }
-        case "Motorbike": {
+        case "Sclass": {
             arraySclass[i][j] = new Product(name, price, image, category);
             showSclass();
             break;

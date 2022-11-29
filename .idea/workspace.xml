@@ -2,36 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29c5b206-98a8-435a-931f-5255b777a154" name="Changes" comment="lam case study">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/glc1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/glc2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/glc3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/glc4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/sclass1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/sclass2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/sclass3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/sclass4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/eclass4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/eclass4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/honda-logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/poster1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/xega1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/xega2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/xega3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/xega4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/xega5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/xega6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/xemoto1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/xemoto2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/xemoto3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/xemoto4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/xemoto5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/xeso1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/xeso2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/xeso3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/xeso4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/index/delete.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index/delete.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/index/display.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index/display.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/index/edit.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index/edit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/login.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/view/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +30,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Admin/WebstormProjects/CasestudyModule1",
+    "last_opened_file_path": "C:/Users/Admin/WebstormProjects/thuchanh",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -87,7 +61,8 @@
       <updated>1669619232691</updated>
       <workItem from="1669619233844" duration="4035000" />
       <workItem from="1669642036713" duration="13311000" />
-      <workItem from="1669677707378" duration="5000" />
+      <workItem from="1669677707378" duration="2342000" />
+      <workItem from="1669685479132" duration="12909000" />
     </task>
     <task id="LOCAL-00001" summary="lam case study">
       <created>1669652400254</created>

@@ -1,5 +1,5 @@
-const DEFAULT_USERNAME = "admin";
-const DEFAULT_PASSWORD = "123456";
+const DEFAULT_USERNAME = "c10";
+const DEFAULT_PASSWORD = "123";
 
 function validateFormLogin() {
     let username = document.getElementById("username").value;
